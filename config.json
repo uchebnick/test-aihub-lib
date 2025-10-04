@@ -1,0 +1,11 @@
+{
+  "name": "example_tool",
+  "version": "1.0.0",
+  "description": {
+    "vectorize": [1, 1],
+    "text": "An example tool for demonstration purposes."
+  },
+  "tools": []
+
+
+}
